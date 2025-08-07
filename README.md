@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Disease Prediction using RandomForest Classifier
 
 A simple Streamlit app template for you to modify!
 
